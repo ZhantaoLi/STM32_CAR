@@ -1,0 +1,6 @@
+/**
+* @version   软件V1.4 兼容硬件V1.4 和V1.5
+* @note      视频资料链接：https://space.bilibili.com/434192043
+*
+***********************************************************/
+https://www.bilibili.com/video/BV1SY411L7rJ?spm_id_from=333.337.search-card.all.click

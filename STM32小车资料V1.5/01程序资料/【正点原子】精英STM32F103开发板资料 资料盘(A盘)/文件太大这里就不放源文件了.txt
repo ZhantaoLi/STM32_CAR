@@ -1,0 +1,7 @@
+A盘文件太大，这里就不放原文件了
+
+资料下载百度云链接：
+开发板资料A盘：https://pan.baidu.com/s/1_FxkgE8RA6fU9qcUa7GPPA 提取码：cr9e
+
+如果失效可以去网站：正点原子资料下载中心，下载->stm32f103精英开发板->开发板资料A盘
+网站链接：http://47.111.11.73/docs/index.html
