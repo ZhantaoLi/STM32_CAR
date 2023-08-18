@@ -1,0 +1,6 @@
+../Core/Src/encoder.c:30:7:Get_Encoder_Cot_R	4	static
+../Core/Src/encoder.c:51:7:Get_Encoder_Cot_L	4	static
+../Core/Src/encoder.c:69:9:Get_Encoder_Dir_R	4	static
+../Core/Src/encoder.c:85:9:Get_Encoder_Dir_L	4	static
+../Core/Src/encoder.c:101:7:Get_Encoder_Speed_R	8	static
+../Core/Src/encoder.c:123:7:Get_Encoder_Speed_L	8	static

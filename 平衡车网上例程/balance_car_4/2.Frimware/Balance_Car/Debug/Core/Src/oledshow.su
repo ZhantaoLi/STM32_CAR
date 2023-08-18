@@ -1,0 +1,4 @@
+../Core/Src/oledshow.c:51:6:Show_Encoder	16	static
+../Core/Src/oledshow.c:85:6:Show_Jy61	16	static
+../Core/Src/oledshow.c:122:6:Show_PID	16	static
+../Core/Src/oledshow.c:151:6:OLED_Show	8	static

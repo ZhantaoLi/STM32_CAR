@@ -1,0 +1,6 @@
+../Core/Src/motor.c:34:6:Right_Motor_Foward	8	static
+../Core/Src/motor.c:49:6:Right_Motor_Reverse	8	static
+../Core/Src/motor.c:64:6:Right_Motor_PWM_Set	16	static
+../Core/Src/motor.c:78:6:Light_Motor_Foward	8	static
+../Core/Src/motor.c:93:6:Light_Motor_Reverse	8	static
+../Core/Src/motor.c:109:6:Light_Motor_PWM_Set	16	static
